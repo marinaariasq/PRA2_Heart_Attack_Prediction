@@ -12,4 +12,4 @@ Esta pràctica tiene un total de 4 ficheros:
 4.  Final.pdf : es el fichero Final.ipynb en formato PDF.
 
 ## Video de la pràctica:
-El video explicativo de la pràctica se encuentra en el siguiente link: 
+El video explicativo de la pràctica se encuentra en el siguiente link: https://drive.google.com/drive/folders/17u-4d7optMugClGUsURbCKxVdPVt8oBw?usp=sharing
